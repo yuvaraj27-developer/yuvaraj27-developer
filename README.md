@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-## Stats
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvaraj27-developer&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="yuvaraj27-developer" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yuvaraj27-developer&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="yuvaraj27-developer" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaraj27-developer&theme=highcontrast&hide_border=true" alt="yuvaraj27-developer" />
-</div>
-
 <!--
 **yuvaraj27-developer/yuvaraj27-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
